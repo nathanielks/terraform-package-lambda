@@ -11,6 +11,6 @@
   "dependencies": {
     "@zeit/fetch-retry": "^4.0.0",
     "aws-sdk": "^2.656.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
